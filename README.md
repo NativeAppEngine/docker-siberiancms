@@ -13,6 +13,7 @@ The source [Dockerfile](https://github.com/rylorin/docker-siberiancms/blob/maste
 I based this image as much as possible on official images. I chose php:7.3-apache which is the closest from Siberian requirements. Then added java support, using a raw copy of official openjdk script. Last step added libraries and PHP modules required for Siberian CMS.
 
 
+
 ## Installation
 
 Installation should be straight forward by using this image in a docker stack.
